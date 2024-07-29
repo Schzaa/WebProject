@@ -1,8 +1,2 @@
 # WebProject
-Website
-<!DOCTYPE html>
-<html> 
-<body>
-<?php echo "PHP 1"; ?> 
-</body>
-</html>
+FIRST PHP PROJECT -FADIL 9,3
